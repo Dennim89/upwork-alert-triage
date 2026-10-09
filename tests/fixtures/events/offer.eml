@@ -1,0 +1,57 @@
+From: Upwork (synthetic) <alerts@example.com>
+To: freelancer@example.com
+Subject: Lena W. sent you an offer: Inventory sync between two web shops
+Date: Thu, 14 May 2026 14:30:00 +0000
+Message-ID: <event-offer@mail.example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==event-offer=="
+
+--==event-offer==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Lena W. sent you an offer for Inventory sync between two web shops.
+
+Fixed price: $700.00 =C2=B7 2 milestones
+Milestone 1: Product and stock mapping: $400.00
+Milestone 2: Scheduled sync and alerts: $300.00
+Start date: May 18, 2026
+
+Review offer ( https://click.example.com/t/offer/action )
+
+=C2=A9 2026 Example Marketplace (synthetic test mail)
+
+--==event-offer==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<!DOCTYPE html>
+<html><head><meta charset=3D"utf-8"><title>Upwork notification</title></head>=
+<body>
+<div style=3D"display:none; max-height:0; overflow:hidden;">Lena W. sent you =
+an offer: Inventory sync between two web shops&#847;&#173;&#847;&#173;&#847;&=
+#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;=
+&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847=
+;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#17=
+3;&#847;&#173;&#847;&#173;&#847;&#173;</div>
+<table role=3D"presentation" width=3D"100%">
+<tr><td><img src=3D"https://example.com/logo.png" alt=3D"Upwork" width=3D"100=
+"></td></tr>
+<tr><td><p>Hi,</p><p>Lena W. sent you an offer for Inventory sync between two=
+ web shops.</p><p>Fixed price: $700.00 =C2=B7 2 milestones<br>Milestone 1: Pr=
+oduct and stock mapping: $400.00<br>Milestone 2: Scheduled sync and alerts: $=
+300.00<br>Start date: May 18, 2026</p><p><a href=3D"https://click.example.com=
+/t/offer/action">Review offer</a></p></td></tr>
+</table>
+<table role=3D"presentation">
+<tr><td><a href=3D"https://click.example.com/t/offer/privacy">Privacy Policy<=
+/a> &middot; <a href=3D"https://click.example.com/t/offer/settings">Notificat=
+ion Settings</a></td></tr>
+<tr><td>=C2=A9 2026 Example Marketplace (synthetic test mail)</td></tr>
+</table>
+</body></html>
+
+--==event-offer==--

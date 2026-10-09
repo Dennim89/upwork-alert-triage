@@ -1,0 +1,51 @@
+From: Upwork (synthetic) <alerts@example.com>
+To: freelancer@example.com
+Subject: Lena W. viewed your proposal
+Date: Thu, 14 May 2026 09:40:00 +0000
+Message-ID: <event-proposal_viewed@mail.example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==event-proposal_viewed=="
+
+--==event-proposal_viewed==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Your proposal for Inventory sync between two web shops was viewed by the clie=
+nt.
+
+View proposal ( https://click.example.com/t/proposal_viewed/action )
+
+=C2=A9 2026 Example Marketplace (synthetic test mail)
+
+--==event-proposal_viewed==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<!DOCTYPE html>
+<html><head><meta charset=3D"utf-8"><title>Upwork notification</title></head>=
+<body>
+<div style=3D"display:none; max-height:0; overflow:hidden;">Lena W. viewed yo=
+ur proposal&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;=
+&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173=
+;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#84=
+7;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#1=
+73;</div>
+<table role=3D"presentation" width=3D"100%">
+<tr><td><img src=3D"https://example.com/logo.png" alt=3D"Upwork" width=3D"100=
+"></td></tr>
+<tr><td><p>Hi,</p><p>Your proposal for Inventory sync between two web shops w=
+as viewed by the client.</p><p><a href=3D"https://click.example.com/t/proposa=
+l_viewed/action">View proposal</a></p></td></tr>
+</table>
+<table role=3D"presentation">
+<tr><td><a href=3D"https://click.example.com/t/proposal_viewed/privacy">Priva=
+cy Policy</a> &middot; <a href=3D"https://click.example.com/t/proposal_viewed=
+/settings">Notification Settings</a></td></tr>
+<tr><td>=C2=A9 2026 Example Marketplace (synthetic test mail)</td></tr>
+</table>
+</body></html>
+
+--==event-proposal_viewed==--

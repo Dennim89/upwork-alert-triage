@@ -1,0 +1,48 @@
+From: Upwork (synthetic) <alerts@example.com>
+To: freelancer@example.com
+Subject: The job Dashboard for a small solar installer was closed
+Date: Thu, 14 May 2026 11:30:00 +0000
+Message-ID: <event-job_closed@mail.example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==event-job_closed=="
+
+--==event-job_closed==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+The client closed the job Dashboard for a small solar installer. No action is=
+ needed.
+
+=C2=A9 2026 Example Marketplace (synthetic test mail)
+
+--==event-job_closed==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<!DOCTYPE html>
+<html><head><meta charset=3D"utf-8"><title>Upwork notification</title></head>=
+<body>
+<div style=3D"display:none; max-height:0; overflow:hidden;">The job Dashboard=
+ for a small solar installer was closed&#847;&#173;&#847;&#173;&#847;&#173;&#=
+847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&=
+#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;=
+&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847=
+;&#173;&#847;&#173;&#847;&#173;</div>
+<table role=3D"presentation" width=3D"100%">
+<tr><td><img src=3D"https://example.com/logo.png" alt=3D"Upwork" width=3D"100=
+"></td></tr>
+<tr><td><p>Hi,</p><p>The client closed the job Dashboard for a small solar in=
+staller. No action is needed.</p></td></tr>
+</table>
+<table role=3D"presentation">
+<tr><td><a href=3D"https://click.example.com/t/job_closed/privacy">Privacy Po=
+licy</a> &middot; <a href=3D"https://click.example.com/t/job_closed/settings"=
+>Notification Settings</a></td></tr>
+<tr><td>=C2=A9 2026 Example Marketplace (synthetic test mail)</td></tr>
+</table>
+</body></html>
+
+--==event-job_closed==--

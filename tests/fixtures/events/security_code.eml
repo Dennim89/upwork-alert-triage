@@ -1,0 +1,47 @@
+From: Upwork (synthetic) <alerts@example.com>
+To: freelancer@example.com
+Subject: Your Upwork verification code
+Date: Thu, 14 May 2026 12:00:00 +0000
+Message-ID: <event-security_code@mail.example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==event-security_code=="
+
+--==event-security_code==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Your verification code is 604215. It expires in 10 minutes.
+
+=C2=A9 2026 Example Marketplace (synthetic test mail)
+
+--==event-security_code==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<!DOCTYPE html>
+<html><head><meta charset=3D"utf-8"><title>Upwork notification</title></head>=
+<body>
+<div style=3D"display:none; max-height:0; overflow:hidden;">Your Upwork verif=
+ication code&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847=
+;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#17=
+3;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#8=
+47;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#=
+173;</div>
+<table role=3D"presentation" width=3D"100%">
+<tr><td><img src=3D"https://example.com/logo.png" alt=3D"Upwork" width=3D"100=
+"></td></tr>
+<tr><td><p>Hi,</p><p>Your verification code is <b>604215</b>. It expires in 1=
+0 minutes.</p></td></tr>
+</table>
+<table role=3D"presentation">
+<tr><td><a href=3D"https://click.example.com/t/security_code/privacy">Privacy=
+ Policy</a> &middot; <a href=3D"https://click.example.com/t/security_code/set=
+tings">Notification Settings</a></td></tr>
+<tr><td>=C2=A9 2026 Example Marketplace (synthetic test mail)</td></tr>
+</table>
+</body></html>
+
+--==event-security_code==--

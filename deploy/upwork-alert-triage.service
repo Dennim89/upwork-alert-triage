@@ -1,0 +1,22 @@
+# systemd user service (Linux). An example: adjust the paths, then
+#   mkdir -p ~/.config/systemd/user && cp deploy/upwork-alert-triage.service ~/.config/systemd/user/
+#   systemctl --user daemon-reload && systemctl --user enable --now upwork-alert-triage
+#   journalctl --user -u upwork-alert-triage -f      (the bot also writes logs/daemon.log)
+# To keep it running after you log out: loginctl enable-linger "$USER"
+# A service does not see your shell's PATH: set CLAUDE_PATH in .env to the full path of the claude CLI.
+# %h is your home folder; this example assumes the repository is cloned to ~/upwork-alert-triage.
+
+[Unit]
+Description=upwork-alert-triage (Upwork alert e-mails to Telegram cards)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/upwork-alert-triage
+ExecStart=/usr/bin/python3 %h/upwork-alert-triage/bot_daemon.py
+Restart=on-failure
+RestartSec=60
+
+[Install]
+WantedBy=default.target

@@ -1,0 +1,51 @@
+From: Upwork (synthetic) <alerts@example.com>
+To: freelancer@example.com
+Subject: Milestone approved: payment of $400.00 released
+Date: Thu, 21 May 2026 12:00:00 +0000
+Message-ID: <event-payment@mail.example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==event-payment=="
+
+--==event-payment==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Lena W. approved milestone 1 for Inventory sync between two web shops. $400.0=
+0 was released to you.
+
+View transaction ( https://click.example.com/t/payment/action )
+
+=C2=A9 2026 Example Marketplace (synthetic test mail)
+
+--==event-payment==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<!DOCTYPE html>
+<html><head><meta charset=3D"utf-8"><title>Upwork notification</title></head>=
+<body>
+<div style=3D"display:none; max-height:0; overflow:hidden;">Milestone approve=
+d: payment of $400.00 released&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173=
+;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#84=
+7;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#1=
+73;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#=
+847;&#173;&#847;&#173;</div>
+<table role=3D"presentation" width=3D"100%">
+<tr><td><img src=3D"https://example.com/logo.png" alt=3D"Upwork" width=3D"100=
+"></td></tr>
+<tr><td><p>Hi,</p><p>Lena W. approved milestone 1 for Inventory sync between =
+two web shops. $400.00 was released to you.</p><p><a href=3D"https://click.ex=
+ample.com/t/payment/action">View transaction</a></p></td></tr>
+</table>
+<table role=3D"presentation">
+<tr><td><a href=3D"https://click.example.com/t/payment/privacy">Privacy Polic=
+y</a> &middot; <a href=3D"https://click.example.com/t/payment/settings">Notif=
+ication Settings</a></td></tr>
+<tr><td>=C2=A9 2026 Example Marketplace (synthetic test mail)</td></tr>
+</table>
+</body></html>
+
+--==event-payment==--

@@ -1,0 +1,55 @@
+From: Upwork (synthetic) <alerts@example.com>
+To: freelancer@example.com
+Subject: Invitation to interview: Inventory sync between two web shops
+Date: Thu, 14 May 2026 10:20:00 +0000
+Message-ID: <event-interview_invite@mail.example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==event-interview_invite=="
+
+--==event-interview_invite==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Lena W. invited you to interview for the job Inventory sync between two web s=
+hops.
+
+"Hi, your proposal was clear. Are you free for a short chat on Upwork this we=
+ek?"
+
+View invitation ( https://click.example.com/t/interview_invite/action )
+
+=C2=A9 2026 Example Marketplace (synthetic test mail)
+
+--==event-interview_invite==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<!DOCTYPE html>
+<html><head><meta charset=3D"utf-8"><title>Upwork notification</title></head>=
+<body>
+<div style=3D"display:none; max-height:0; overflow:hidden;">Invitation to int=
+erview: Inventory sync between two web shops&#847;&#173;&#847;&#173;&#847;&#1=
+73;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#=
+847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&=
+#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;=
+&#847;&#173;&#847;&#173;&#847;&#173;</div>
+<table role=3D"presentation" width=3D"100%">
+<tr><td><img src=3D"https://example.com/logo.png" alt=3D"Upwork" width=3D"100=
+"></td></tr>
+<tr><td><p>Hi,</p><p>Lena W. invited you to interview for the job Inventory s=
+ync between two web shops.</p><p>"Hi, your proposal was clear. Are you free f=
+or a short chat on Upwork this week?"</p><p><a href=3D"https://click.example.=
+com/t/interview_invite/action">View invitation</a></p></td></tr>
+</table>
+<table role=3D"presentation">
+<tr><td><a href=3D"https://click.example.com/t/interview_invite/privacy">Priv=
+acy Policy</a> &middot; <a href=3D"https://click.example.com/t/interview_invi=
+te/settings">Notification Settings</a></td></tr>
+<tr><td>=C2=A9 2026 Example Marketplace (synthetic test mail)</td></tr>
+</table>
+</body></html>
+
+--==event-interview_invite==--

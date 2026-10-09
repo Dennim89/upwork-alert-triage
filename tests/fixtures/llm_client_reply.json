@@ -1,0 +1,7 @@
+```json
+{
+ "translation": "",
+ "summary": "Yes to both: a Monday summary is a small addition, and the bot can run on their server; asks which shop platform it reads from.",
+ "reply_en": "Hi Sam,\nThanks for the questions. A weekly summary on Mondays is easy to add: the bot already has the daily numbers, so it only needs a second schedule.\nRunning it on your own server is fine. It's a small Python service that only talks to Telegram and your shop's API.\nWhich shop platform should it read the sales from?\nJordan"
+}
+```

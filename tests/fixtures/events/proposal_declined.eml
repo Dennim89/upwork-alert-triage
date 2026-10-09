@@ -1,0 +1,47 @@
+From: Upwork (synthetic) <alerts@example.com>
+To: freelancer@example.com
+Subject: Your proposal was declined
+Date: Thu, 14 May 2026 11:00:00 +0000
+Message-ID: <event-proposal_declined@mail.example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==event-proposal_declined=="
+
+--==event-proposal_declined==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+The client declined your proposal for Weather data scraper for a farm co-op.
+
+=C2=A9 2026 Example Marketplace (synthetic test mail)
+
+--==event-proposal_declined==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<!DOCTYPE html>
+<html><head><meta charset=3D"utf-8"><title>Upwork notification</title></head>=
+<body>
+<div style=3D"display:none; max-height:0; overflow:hidden;">Your proposal was=
+ declined&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#=
+173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&=
+#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;=
+&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173=
+;</div>
+<table role=3D"presentation" width=3D"100%">
+<tr><td><img src=3D"https://example.com/logo.png" alt=3D"Upwork" width=3D"100=
+"></td></tr>
+<tr><td><p>Hi,</p><p>The client declined your proposal for Weather data scrap=
+er for a farm co-op.</p></td></tr>
+</table>
+<table role=3D"presentation">
+<tr><td><a href=3D"https://click.example.com/t/proposal_declined/privacy">Pri=
+vacy Policy</a> &middot; <a href=3D"https://click.example.com/t/proposal_decl=
+ined/settings">Notification Settings</a></td></tr>
+<tr><td>=C2=A9 2026 Example Marketplace (synthetic test mail)</td></tr>
+</table>
+</body></html>
+
+--==event-proposal_declined==--

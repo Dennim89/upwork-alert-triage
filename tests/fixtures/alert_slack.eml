@@ -1,0 +1,102 @@
+From: Upwork (synthetic) <alerts@example.com>
+To: freelancer@example.com
+Subject: New job alert: Slack bot that answers HR policy questions with an LLM
+Date: Thu, 14 May 2026 17:30:45 +0000
+Message-ID: <alert-slack@mail.example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==alert-slack=="
+
+--==alert-slack==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+This job matches your saved search: "slack bot" OR chatbot OR llm...=CD=8F=C2=
+=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=
+=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=
+=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=
+=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD
+
+Find Work ( https://click.example.com/t/slack/nav-find )  Log In ( https://cl=
+ick.example.com/t/slack/nav-login )
+
+New job alert
+
+Hi there,
+
+This job matches your saved search: "slack bot" OR chatbot OR llm.
+Take a look and submit a proposal when you=E2=80=99re ready.
+
+Slack bot that answers HR policy questions with an LLM ( https://click.exampl=
+e.com/t/slack/title )
+
+Our team of 40 keeps asking the same HR questions. Build a Slack bot that ans=
+wers from our policy PDFs with an LLM and links the paragraph it used. Answer=
+s must stay inside the documents.
+
+Hourly: $35-$55 =E2=80=A2 1 to 3 months =E2=80=A2 Less than 30 hrs/week
+Payment verified =E2=80=A2 4.7 =E2=80=A2 $26k spent =E2=80=A2 United Kingdom
+
+Python ( https://click.example.com/t/slack/skill-0 )
+Slack API ( https://click.example.com/t/slack/skill-1 )
+LLM ( https://click.example.com/t/slack/skill-2 )
+RAG ( https://click.example.com/t/slack/skill-3 )
+
+Posted 25 minutes ago.
+
+View job details ( https://click.example.com/t/slack/view )
+
+Privacy Policy ( https://click.example.com/t/slack/privacy ) Notification Set=
+tings ( https://click.example.com/t/slack/settings )
+=C2=A9 2026 Example Marketplace (synthetic test mail)
+
+--==alert-slack==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<!DOCTYPE html>
+<html><head><meta charset=3D"utf-8"><title>New job alert</title><style>a { co=
+lor: #1f6f2b; }</style></head>
+<body>
+<div style=3D"display:none; max-height:0; overflow:hidden;">This job matches =
+your saved search: &quot;slack bot&quot; OR chatbot OR llm...&#847;&#173;&#84=
+7;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#1=
+73;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#=
+847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&=
+#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;</div>
+<table role=3D"presentation" width=3D"100%"><tr>
+<td><a href=3D"https://click.example.com/t/slack/nav-find">Find Work</a></td>=
+<td><a href=3D"https://click.example.com/t/slack/nav-login">Log In</a></td>
+</tr></table>
+<table role=3D"presentation" width=3D"100%">
+<tr><td><h1>New job alert</h1></td></tr>
+<tr><td><p>Hi there,</p><p>This job matches your saved search: &quot;slack bo=
+t&quot; OR chatbot OR llm.<br>Take a look and submit a proposal when you&rsqu=
+o;re ready.</p></td></tr>
+<tr><td><h2><a href=3D"https://click.example.com/t/slack/title">Slack bot tha=
+t answers HR policy questions with an LLM</a></h2></td></tr>
+<tr><td><p>Our team of 40 keeps asking the same HR questions. Build a Slack b=
+ot that answers from our policy PDFs with an LLM and links the paragraph it u=
+sed. Answers must stay inside the documents.</p></td></tr>
+<tr><td><div class=3D"meta">Hourly: $35-$55 =E2=80=A2 1 to 3 months =E2=80=A2=
+ Less than 30 hrs/week</div></td></tr>
+<tr><td><div class=3D"meta">Payment verified =E2=80=A2 4.7 =E2=80=A2 $26k spe=
+nt =E2=80=A2 United Kingdom</div></td></tr>
+<tr><td><ul><li><a href=3D"https://click.example.com/t/slack/skill-0">Python<=
+/a></li><li><a href=3D"https://click.example.com/t/slack/skill-1">Slack API</=
+a></li><li><a href=3D"https://click.example.com/t/slack/skill-2">LLM</a></li>=
+<li><a href=3D"https://click.example.com/t/slack/skill-3">RAG</a></li></ul></=
+td></tr>
+<tr><td><p>Posted 25 minutes ago.</p></td></tr>
+<tr><td><a href=3D"https://click.example.com/t/slack/view" style=3D"backgroun=
+d:#1f6f2b; color:#ffffff;">View job details</a></td></tr>
+</table>
+<table role=3D"presentation">
+<tr><td><a href=3D"https://click.example.com/t/slack/privacy">Privacy Policy<=
+/a> &middot; <a href=3D"https://click.example.com/t/slack/settings">Notificat=
+ion Settings</a></td></tr>
+<tr><td>=C2=A9 2026 Example Marketplace (synthetic test mail)</td></tr>
+</table>
+</body></html>
+
+--==alert-slack==--

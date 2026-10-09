@@ -1,0 +1,11 @@
+# secrets and personal files
+.env
+profile.md
+# runtime data: job texts, client messages, drafts, raw e-mail samples, logs
+data/
+logs/
+*.db
+# Python
+__pycache__/
+*.pyc
+.venv/

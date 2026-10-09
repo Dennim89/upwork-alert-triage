@@ -1,0 +1,58 @@
+From: Upwork (synthetic) <alerts@example.com>
+To: freelancer@example.com
+Subject:
+ New message from Sam K. about Telegram bot that posts daily sales numbers
+Date: Thu, 14 May 2026 16:05:00 +0000
+Message-ID: <event-client_message_text@mail.example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==event-client_message_text=="
+
+--==event-client_message_text==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Sam K. sent you a message:
+
+Thanks for the proposal. Two questions: can the bot also post a weekly summar=
+y on Mondays, and can it run on our own server instead of a cloud service?
+
+Job: Telegram bot that posts daily sales numbers
+
+View message ( https://click.example.com/t/client_message_text/action )
+
+=C2=A9 2026 Example Marketplace (synthetic test mail)
+
+--==event-client_message_text==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<!DOCTYPE html>
+<html><head><meta charset=3D"utf-8"><title>Upwork notification</title></head>=
+<body>
+<div style=3D"display:none; max-height:0; overflow:hidden;">New message from =
+Sam K. about Telegram bot that posts daily sales numbers&#847;&#173;&#847;&#1=
+73;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#=
+847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&=
+#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;=
+&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;</div>
+<table role=3D"presentation" width=3D"100%">
+<tr><td><img src=3D"https://example.com/logo.png" alt=3D"Upwork" width=3D"100=
+"></td></tr>
+<tr><td><p>Hi,</p><p><b>Sam K.</b> sent you a message:</p><p>Thanks for the p=
+roposal. Two questions: can the bot also post a weekly summary on Mondays, an=
+d can it run on our own server instead of a cloud service?</p><p>Job: Telegra=
+m bot that posts daily sales numbers</p><p><a href=3D"https://click.example.c=
+om/t/client_message_text/action">View message</a></p></td></tr>
+</table>
+<table role=3D"presentation">
+<tr><td><a href=3D"https://click.example.com/t/client_message_text/privacy">P=
+rivacy Policy</a> &middot; <a href=3D"https://click.example.com/t/client_mess=
+age_text/settings">Notification Settings</a></td></tr>
+<tr><td>=C2=A9 2026 Example Marketplace (synthetic test mail)</td></tr>
+</table>
+</body></html>
+
+--==event-client_message_text==--

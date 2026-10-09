@@ -1,0 +1,105 @@
+From: Upwork (synthetic) <alerts@example.com>
+To: freelancer@example.com
+Subject: New job alert: Quick fix for the checkout page of our online store
+Date: Thu, 14 May 2026 17:10:00 +0000
+Message-ID: <alert-checkout@mail.example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==alert-checkout=="
+
+--==alert-checkout==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+This job matches your saved search: "javascript" OR "online store"...=CD=8F=
+=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=
+=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=
+=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=
+=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD=CD=8F=C2=AD
+
+Find Work ( https://click.example.com/t/checkout/nav-find )  Log In ( https:/=
+/click.example.com/t/checkout/nav-login )
+
+New job alert
+
+Hi there,
+
+This job matches your saved search: "javascript" OR "online store".
+Take a look and submit a proposal when you=E2=80=99re ready.
+
+Quick fix for the checkout page of our online store ( https://click.example.c=
+om/t/checkout/title )
+
+The checkout page of our online store shows the wrong total when a coupon is =
+used. Small task. Contact me on WhatsApp before you apply so we can talk fast=
+er.
+
+Fixed-price: $120
+=E2=80=A2 Entry level
+=E2=80=A2 Less than 1 week
+Payment unverified
+=E2=80=A2 $0 spent
+=E2=80=A2 Australia
+
+JavaScript ( https://click.example.com/t/checkout/skill-0 )
+Web Development ( https://click.example.com/t/checkout/skill-1 )
+
+Posted 15 minutes ago.
+
+View job details ( https://click.example.com/t/checkout/view )
+
+Privacy Policy ( https://click.example.com/t/checkout/privacy ) Notification =
+Settings ( https://click.example.com/t/checkout/settings )
+=C2=A9 2026 Example Marketplace (synthetic test mail)
+
+--==alert-checkout==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<!DOCTYPE html>
+<html><head><meta charset=3D"utf-8"><title>New job alert</title><style>a { co=
+lor: #1f6f2b; }</style></head>
+<body>
+<div style=3D"display:none; max-height:0; overflow:hidden;">This job matches =
+your saved search: &quot;javascript&quot; OR &quot;online store&quot;...&#847=
+;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#17=
+3;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#8=
+47;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#=
+173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;</div>
+<table role=3D"presentation" width=3D"100%"><tr>
+<td><a href=3D"https://click.example.com/t/checkout/nav-find">Find Work</a></=
+td><td><a href=3D"https://click.example.com/t/checkout/nav-login">Log In</a><=
+/td>
+</tr></table>
+<table role=3D"presentation" width=3D"100%">
+<tr><td><h1>New job alert</h1></td></tr>
+<tr><td><p>Hi there,</p><p>This job matches your saved search: &quot;javascri=
+pt&quot; OR &quot;online store&quot;.<br>Take a look and submit a proposal wh=
+en you&rsquo;re ready.</p></td></tr>
+<tr><td><h2><a href=3D"https://click.example.com/t/checkout/title">Quick fix =
+for the checkout page of our online store</a></h2></td></tr>
+<tr><td><p>The checkout page of our online store shows the wrong total when a=
+ coupon is used. Small task. Contact me on WhatsApp before you apply so we ca=
+n talk faster.</p></td></tr>
+<tr><td><div class=3D"meta">Fixed-price: $120</div><div class=3D"meta">&nbsp;=
+=E2=80=A2&nbsp;Entry level</div><div class=3D"meta">&nbsp;=E2=80=A2&nbsp;Less=
+ than 1 week</div></td></tr>
+<tr><td><div class=3D"meta">Payment unverified</div><div class=3D"meta">&nbsp=
+;=E2=80=A2&nbsp;$0 spent</div><div class=3D"meta">&nbsp;=E2=80=A2&nbsp;Austra=
+lia</div></td></tr>
+<tr><td><ul><li><a href=3D"https://click.example.com/t/checkout/skill-0">Java=
+Script</a></li><li><a href=3D"https://click.example.com/t/checkout/skill-1">W=
+eb Development</a></li></ul></td></tr>
+<tr><td><p>Posted 15 minutes ago.</p></td></tr>
+<tr><td><a href=3D"https://click.example.com/t/checkout/view" style=3D"backgr=
+ound:#1f6f2b; color:#ffffff;">View job details</a></td></tr>
+</table>
+<table role=3D"presentation">
+<tr><td><a href=3D"https://click.example.com/t/checkout/privacy">Privacy Poli=
+cy</a> &middot; <a href=3D"https://click.example.com/t/checkout/settings">Not=
+ification Settings</a></td></tr>
+<tr><td>=C2=A9 2026 Example Marketplace (synthetic test mail)</td></tr>
+</table>
+</body></html>
+
+--==alert-checkout==--

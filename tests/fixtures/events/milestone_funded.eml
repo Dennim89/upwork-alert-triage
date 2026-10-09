@@ -1,0 +1,51 @@
+From: Upwork (synthetic) <alerts@example.com>
+To: freelancer@example.com
+Subject: Lena W. funded milestone 1 for Inventory sync between two web shops
+Date: Fri, 15 May 2026 09:30:00 +0000
+Message-ID: <event-milestone_funded@mail.example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="==event-milestone_funded=="
+
+--==event-milestone_funded==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Milestone 1 (Product and stock mapping, $400.00) is funded. You can start wor=
+king.
+
+View contract ( https://click.example.com/t/milestone_funded/action )
+
+=C2=A9 2026 Example Marketplace (synthetic test mail)
+
+--==event-milestone_funded==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<!DOCTYPE html>
+<html><head><meta charset=3D"utf-8"><title>Upwork notification</title></head>=
+<body>
+<div style=3D"display:none; max-height:0; overflow:hidden;">Lena W. funded mi=
+lestone 1 for Inventory sync between two web shops&#847;&#173;&#847;&#173;&#8=
+47;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#=
+173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&=
+#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;&#173;&#847;=
+&#173;&#847;&#173;&#847;&#173;&#847;&#173;</div>
+<table role=3D"presentation" width=3D"100%">
+<tr><td><img src=3D"https://example.com/logo.png" alt=3D"Upwork" width=3D"100=
+"></td></tr>
+<tr><td><p>Hi,</p><p>Milestone 1 (Product and stock mapping, $400.00) is fund=
+ed. You can start working.</p><p><a href=3D"https://click.example.com/t/miles=
+tone_funded/action">View contract</a></p></td></tr>
+</table>
+<table role=3D"presentation">
+<tr><td><a href=3D"https://click.example.com/t/milestone_funded/privacy">Priv=
+acy Policy</a> &middot; <a href=3D"https://click.example.com/t/milestone_fund=
+ed/settings">Notification Settings</a></td></tr>
+<tr><td>=C2=A9 2026 Example Marketplace (synthetic test mail)</td></tr>
+</table>
+</body></html>
+
+--==event-milestone_funded==--

@@ -1,0 +1,11 @@
+{
+ "fit": 3,
+ "win": 1.5,
+ "red_flag": false,
+ "red_flag_reason": "",
+ "why": "An LLM bot over company documents is close to the wiki bot in the profile.",
+ "risks": "Ongoing hourly work for 1-3 months; scanned PDFs would need OCR first.",
+ "price_usd": 45,
+ "milestones": [],
+ "proposal_en": "Hi,\nYour team keeps asking the same HR questions, and the answers already sit in your policy PDFs. A Slack bot that answers only from those files and links the paragraph it used would take most of that load off.\nI'd begin by loading two or three of the PDFs and checking how clean the text is, then build the bot so it says so when the documents don't cover a question. You'd get the bot, a simple way to add new PDFs and a short admin guide. A working pilot is realistic in about two weeks.\nI built a Slack bot that answers from a team wiki and links the source page.\nAre any of the PDFs scanned images rather than text?\nJordan"
+}
